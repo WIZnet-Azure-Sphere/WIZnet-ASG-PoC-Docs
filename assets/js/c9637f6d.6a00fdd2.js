@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{99:function(o){o.exports=JSON.parse('{"allTagsPath":"/WIZnet-ASG-PoC-Docs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/WIZnet-ASG-PoC-Docs/blog/tags/facebook"}')}}]);
