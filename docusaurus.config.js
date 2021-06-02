@@ -3,7 +3,7 @@ module.exports = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://wiznet-azure-sphere.github.io/WIZnet-ASG-PoC-Docs",
-  baseUrl: "/WIZnet-ASG-PoC-Docs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -66,7 +66,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} WIZnet Co., Ltd. Built with Docusaurus.`
     }
   },
   presets: [
