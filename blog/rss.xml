@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Site Blog</title>
+        <title>WIZnet ASG DM Document System Blog</title>
         <link>https://wiznet-azure-sphere.github.io/WIZnet-ASG-PoC-Docs/blog</link>
-        <description>My Site Blog</description>
+        <description>WIZnet ASG DM Document System Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
