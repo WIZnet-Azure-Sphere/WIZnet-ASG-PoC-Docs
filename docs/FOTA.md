@@ -7,9 +7,8 @@ sidebar_position: 3
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
 
-# FOTA (Firmware Over The Air)
 
-FOTA는 디바이스의 펌웨어를 네트워크를 통해 다양한 방식으로 배포하는 것을 말합니다.
+FOTA(Firmware Over The Air)는 디바이스의 펌웨어를 네트워크를 통해 다양한 방식으로 배포하는 것을 말합니다.
 
 Azure Sphere의 Azure Sphere Security Service를 통해 ASG210의 OTA를 진행할 수 있습니다.
 
