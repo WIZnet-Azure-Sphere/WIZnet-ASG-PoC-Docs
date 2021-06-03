@@ -1,4 +1,5 @@
 ---
+slug: /
 title: "ASG Device Management Service"
 date: 2021-06-01
 sidebar_position: 1

@@ -1,6 +1,6 @@
 {
-  "name": "wi-znet-asg-po-c-docs",
-  "version": "0.0.0",
+  "name": "wiznet-asg-poc-docs",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

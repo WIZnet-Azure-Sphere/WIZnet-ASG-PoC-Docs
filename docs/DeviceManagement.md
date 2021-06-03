@@ -1,5 +1,5 @@
 ---
-title: "ASG DM Device Management"
+title: "Device Management"
 date: 2021-05-10
 sidebar_position: 0
 ---
@@ -34,7 +34,7 @@ ASG Device Managament System은 Microsoft가 서비스하는 Azure Sphere Securi
 # ASG Device Managament System User Guide
 
 
-## **디바이스 목록 조회**
+## 디바이스 목록 조회
 
 등록된 디바이스 목록과 각 디바이스의 연결 상태를 확인합니다.
 
@@ -49,4 +49,11 @@ ASG Device Managament System은 Microsoft가 서비스하는 Azure Sphere Securi
 
 <img alt="Device Management 2" src={useBaseUrl('/img/asgdm/deviceManagement2.png')} />
 
+
+## 디바이스 세부 정보 확인
+
+각 디바이스를 클릭하여 세부 정보를 확인할 수 있습니다.
+
+
+<img alt="Device Detail" src={useBaseUrl('/img/asgdm/DeviceDetail.png')} />
 
