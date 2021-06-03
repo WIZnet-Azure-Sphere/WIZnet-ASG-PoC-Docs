@@ -3,7 +3,7 @@ module.exports = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://wiznet-azure-sphere.github.io/WIZnet-ASG-PoC-Docs",
-  baseUrl: "/",
+  baseUrl: "/WIZnet-ASG-PoC-Docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
