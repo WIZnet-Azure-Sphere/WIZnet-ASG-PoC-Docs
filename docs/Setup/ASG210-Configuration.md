@@ -1,7 +1,7 @@
 ---
-title: "ASG210 Setup"
-date: 2021-06-01
-sidebar_position: 4
+slug: /asg210-setup
+sidebar_label: "ASG210 Setup"
+sidebar_position: 1
 ---
 
 ## ASG210 Setup

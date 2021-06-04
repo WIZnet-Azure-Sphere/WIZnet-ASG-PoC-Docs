@@ -1,7 +1,7 @@
 ---
-title: "Network Configuration"
-date: 2021-06-01
-sidebar_position: 2
+slug: /network-configuration
+sidebar_label: "Network Configuration"
+sidebar_position: 3
 ---
 
 ## Waton PoC Network 설정

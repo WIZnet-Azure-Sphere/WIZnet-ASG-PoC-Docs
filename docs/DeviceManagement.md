@@ -1,7 +1,7 @@
 ---
 title: "Device Management"
 date: 2021-05-10
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
