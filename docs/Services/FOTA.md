@@ -67,7 +67,6 @@ ASG DM에서는 이러한 FOTA 기능을 사용할 수 있도록 기능을 제�
 
 
 
-
 ## 이미지 패키지 업로드
 
 *이미지 패키지는 이미지, 그리고 이미지와 관련된 메타데이터가 결합된 패키지 파일입니다. 배포 시 정보를 포함하고 있는 이미지 패키지를 사용합니다.*
@@ -75,7 +74,6 @@ ASG DM에서는 이러한 FOTA 기능을 사용할 수 있도록 기능을 제�
 배포할 이미지 패키지를 업로드 합니다.
 
 **배포 생성 시 이미지 ID가 필요**하므로, 사용자는 이미지 패키지를 생성할 때 각 이미지의 ID를 메모해 두는 것이 좋습니다.
-
 
 
 **Image ID**
@@ -91,7 +89,6 @@ azsphere image-package show -f <file path>
 결과는 다음과 같이 표시됩니다.
 
 ![](https://paper-attachments.dropbox.com/s_6B416B4379E3C4034F7587B155C6F6BEFE698D1D76F13665776365B9EF449879_1599800286024_image.png)
-
 
 
 
@@ -118,9 +115,7 @@ Azure Sphere의 배포에는 이미지를 4개까지 포함시킬 수 있습니�
 >ASG210의 2 port ethernet application은 A7 및 M4 core와 Ethernet 기능을 사용하므로 총 3개의 이미지를 사용해 배포를 생성합니다.
 
 
-
 `Create Deployment` 버튼을 클릭하여 배포를 생성합니다.
-
 
 
 ## 배포 리스트 확인
