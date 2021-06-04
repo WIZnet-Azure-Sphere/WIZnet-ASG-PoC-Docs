@@ -21,4 +21,4 @@ WIZnet이 배포한 ASG210 PC Tool을 실행시키고 Device Search버튼을 통
 <img alt="asg210-local-network-setup" src={useBaseUrl('/img/asgdm/asg210-network.png')} />
 
 ## NEXT
-[WIZ750SR-Waton Local Network 환경설정](/wiz750sr-waton)
+[WIZ750SR-Waton Local Network 환경설정](/setup/wiz750sr-waton)
