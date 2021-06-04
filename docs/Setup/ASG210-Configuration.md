@@ -1,7 +1,7 @@
 ---
 slug: /asg210-setup
-sidebar_label: "ASG210 Setup"
-sidebar_position: 1
+sidebar_label: "PC Tool을 통한 ASG210 Local Network 환경설정"
+sidebar_position: 3
 ---
 
 ## ASG210 Setup
@@ -24,3 +24,4 @@ sidebar_position: 1
 
 
 ## NEXT
+PC Tool을 통한 WIZ750SR-Waton Local Network 환경설정

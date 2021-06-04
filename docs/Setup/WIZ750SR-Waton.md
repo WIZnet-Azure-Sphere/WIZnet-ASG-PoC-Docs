@@ -1,6 +1,6 @@
 ---
 slug: /wiz750sr-waton
-sidebar_label: "WIZ750SR-Waton for PoC"
+sidebar_label: "PC Tool을 통한 WIZ750SR-Waton Local Network 환경설정"
 sidebar_position: 2
 ---
 
@@ -55,3 +55,4 @@ Configuration Tool의 ```Channel #2```를 통해 Waton의 로컬 서버를 설�
 
 
 ## NEXT
+PC Tool을 통한 ASG210 Local Network 환경설정
