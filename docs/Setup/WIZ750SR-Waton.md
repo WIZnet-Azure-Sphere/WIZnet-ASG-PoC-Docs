@@ -1,6 +1,6 @@
 ---
-slug: /wiz750sr-waton
-sidebar_label: "PC Tool을 통한 WIZ750SR-Waton Local Network 환경설정"
+slug: /setup/wiz750sr-waton
+sidebar_label: "WIZ750SR-Waton Local Network 환경설정"
 sidebar_position: 2
 ---
 
@@ -51,8 +51,10 @@ Configuration Tool의 ```Channel #2```를 통해 Waton의 로컬 서버를 설�
 
 > ASG210 로컬 네트워트 주소에 대한 자세한 설명은 해당 링크를 통해 확인 할 수 있다.
 
+#### [ASG210 Local Network 환경설정](/setup/asg210-setup)
+
 <img alt="wiz750sr-trap" src={useBaseUrl('/img/asgdm/wiz750sr-trap.png')} />
 
 
 ## NEXT
-PC Tool을 통한 ASG210 Local Network 환경설정
+[ASG210 Local Network 환경설정](/setup/asg210-setup)
