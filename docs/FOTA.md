@@ -1,4 +1,5 @@
 ---
+slug: /fota
 title: "FOTA"
 date: 2021-05-10
 sidebar_position: 3
