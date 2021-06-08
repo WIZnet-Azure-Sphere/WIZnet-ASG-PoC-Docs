@@ -1,13 +1,13 @@
 ---
 slug: /services/asg210-management
-title: "ASG210 상태정보 서비스"
+title: "ASG Device"
 date: 2021-06-01
 sidebar_position: 2
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-## ASG210 상태정보 서비스
+## ASG Device
 Waton PoC를 통해 ASG DM 서비스에 연결된 ASG210은 `Group`으로 구분되고 하나의 Group안에 여러개의 ASG210을 등록할 수 있다. 사용자는 Group 기능을 통해 ASG210을 빠르게 검색할 수 있으며 FOTA를 통한 ASG210 및 WIZ750SR-Waton Firmware 업로드시에도 해당 Group을 한정하여 진행할 수 있다.
 
 ## ASG210 상태정보 웹페이지

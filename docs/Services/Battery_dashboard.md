@@ -1,14 +1,14 @@
 ---
 slug: /services/bank-dashboard
-title: "Battery Bank 대시보드"
+title: "Dashboard"
 date: 2021-06-01
 sidebar_position: 4
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-## Battery Bank 대시보드
-Battery Bank 대시보드는 사용자가 Waton Battery 장치와 연결된 Battery Bank 데이터를 모니터링할 수 있도록 서비스한다. Battery Bank 데이터는 크게 `Bank 데이터`와 Bank안의 `Battery Cell 데이터`로 구성되어 있으며 사용자는 원하는 데이터를 대시보드에서 선택하여 확인할 수 있다.
+## Dashboard
+`Dashboard`는 사용자가 Waton Battery 장치와 연결된 Battery Bank 데이터를 모니터링할 수 있도록 서비스한다. Battery Bank 데이터는 크게 `Bank 데이터`와 Bank안의 `Battery Cell 데이터`로 구성되어 있으며 사용자는 원하는 데이터를 대시보드에서 선택하여 확인할 수 있다.
 
 ### Battery Bank 검색
 상단의 필터를 통해 그룹에서 `ASG210 검색`을 통해 해당 ASG210의 하위 WIZ750SR-Waton과 연결된 `Battery Bank List`를 확인할 수 있다. 현재 Battery Bank는 WIZ750SR-Waton의 MAC 주소를 통해 판별할 수 있다.

@@ -1,13 +1,13 @@
 ---
 slug: /services/wiz750sr-wation-management
-title: "WIZ750SR-Waton 상태정보 및 설정 서비스"
+title: "Bank Network"
 date: 2021-06-01
 sidebar_position: 3
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-## WIZ750SR-Waton 상태정보 및 설정 서비스
+## Bank Network
 Waton PoC를 통해 등록된 ASG210은 각각의 Local Network를 통해 통신하는 WIZ750SR-Waton 장비들을 가지고 있다. `Bank Network` 메뉴에서는 해당 ASG210에 연결된 WIZ750SR-Waton을 검색하고 해당 장비의 세부정보를 확인 및 변경하는 서비스를 제공한다.
 
 ### WIZ750SR-Waton 검색 및 세부정보 확인
